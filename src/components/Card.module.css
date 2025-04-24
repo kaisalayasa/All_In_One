@@ -1,0 +1,40 @@
+.main_container{
+    width: 300px;
+    height: 152px;
+    border: 1px solid #DBE0E5;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+
+.main_container:hover{
+    transform: scale(1.05);
+    
+}
+
+.emoji_container{
+    padding: 16px 16px 0;
+}
+img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.info_container{
+    padding: 16px 12px;
+    
+   
+    
+}
+h2,h3{
+    margin: 0px;
+
+}
+h3{
+    color: #637587;
+}

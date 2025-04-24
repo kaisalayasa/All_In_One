@@ -1,0 +1,12 @@
+.task_container {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.259);
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    padding: 10px;
+  }
+  
