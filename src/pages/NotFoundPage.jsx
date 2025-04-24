@@ -17,7 +17,8 @@ function NotFoundPage() {
     }}
     
     
-    >page doesnt exist ;3
+    >
+        page doesnt exist ;3
     
     </div>
   )
