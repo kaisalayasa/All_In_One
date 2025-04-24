@@ -15,8 +15,8 @@ function TiltCard() {
       transitionSpeed={1000}
     >
       <div className={styles.card}>
-        <h1 className={styles.heading}>🚀 Move your mouse for a cool tilt!</h1>
-        <p className={styles.subtext}> This card reacts to your movement ✨</p>
+        <h1 className={styles.heading}>Move your mouse for a cool tilt!</h1>
+        <p className={styles.subtext}> This card reacts to your movement ;3</p>
       </div>
     </Tilt>
   );
