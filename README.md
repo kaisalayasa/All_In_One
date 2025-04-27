@@ -1,4 +1,3 @@
-# React To-Do App
 
 This project is meant to showcase some of my progress while learning React.  
 I focused on practicing core concepts such as:
@@ -15,7 +14,7 @@ I used **Vercel** to deploy the project online.
 ## Live Demo
 
 Check out the live version here:  
-👉 [React To-Do App](https://all-in-one-amber-seven.vercel.app/)
+👉 [All in One](https://all-in-one-amber-seven.vercel.app/)
 
 ## Screenshots
 
@@ -33,7 +32,8 @@ A weather search tool built with an external API, allowing users to find current
 
 ### Library Lab
 A small project created to test different libraries in React and experiment with integration and functionality.
-![Library Lab](https://github.com/user-attachments/assets/d1f8ff00-83f0-4c48-8c5f-c3bb0d676898)
+![Library Lab](https://github.com/user-attachments/assets/9adbdfc1-cfb6-4c84-87f7-98af8fa34c51)
+
 
 ---
 
